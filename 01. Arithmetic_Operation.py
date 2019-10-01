@@ -1,0 +1,8 @@
+print("Name: Md. Abdur Rouf Id: 173462059")
+a=float(input("Enter the value of a:"))
+b=float(input("Enter the value of b:"))
+print("The sum is:",a+b)
+print("The subtraction is:",a-b)
+print("The multiplication is:",a*b)
+print("The division is:",a/b)
+print("The modulus is:",a%b)
